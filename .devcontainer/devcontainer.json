@@ -1,0 +1,8 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet",
+    "workspaceFolder": "/workspace",
+    "workspaceMount": "source=crypt-vividarmy,target=/workspace,type=volume",
+    "extensions": [
+        "ms-dotnettools.csharp",
+    ]
+}
