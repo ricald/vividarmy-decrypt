@@ -1,5 +1,5 @@
 {
-    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet",
+    "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:5.0",
     "workspaceFolder": "/workspace",
     "workspaceMount": "source=crypt-vividarmy,target=/workspace,type=volume",
     "extensions": [
